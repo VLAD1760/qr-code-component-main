@@ -1,0 +1,55 @@
+body {
+text-align: center;
+background-color: #0e1217;
+}
+
+.card {
+	background-color: whitesmoke;
+	border: 3px solid #ffffff;
+	padding: 8px;
+	border-radius: 12px;
+	text-align: center;
+	padding: 8px;
+	max-width: 280px;
+	margin: auto;
+	margin-top: 8vh;
+
+}
+
+.qrCode {
+	width: 100%;
+	border-radius: 12px;
+}
+
+.paragraph1 {
+	font-size: 20px; 
+	text-align: center;
+	font-family: Outfit;
+	padding-top: 20px;
+}
+
+.attribution {
+	font-size: 15px; 
+	font-family: Outfit;
+	color: hsl(216, 15%, 48%);
+}
+
+footer{
+	position: center;
+	padding-top:8%;
+	color: whitesmoke;
+}
+
+.linkedin {
+	background-color: #0076b5;
+	color: whitesmoke;
+	border: 66px;
+	border-color: #ffffff;
+	border-radius: 25px;
+	transition-duration: 0.4s;
+}
+
+.linkedin:hover {
+	background-color: #42cbfd;
+	color: white;
+  }
